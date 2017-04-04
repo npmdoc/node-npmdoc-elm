@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/elm.png?downloads=true)](https://www.npmjs.com/package/elm)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-elm_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-elm/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-elm_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-elm/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.npmPackageListing.svg)
 
