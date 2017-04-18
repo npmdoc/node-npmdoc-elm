@@ -61,12 +61,79 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.elm">module elm</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.elm.binwrap">
+            function <span class="apidocSignatureSpan">elm.</span>binwrap
+            <span class="apidocSignatureSpan">(executable)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.elm.binwrap">module elm.binwrap</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.elm.binwrap.binwrap">
+            function <span class="apidocSignatureSpan">elm.</span>binwrap
+            <span class="apidocSignatureSpan">(executable)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.elm" id="apidoc.module.elm">module elm</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.elm.binwrap" id="apidoc.element.elm.binwrap">
+        function <span class="apidocSignatureSpan">elm.</span>binwrap
+        <span class="apidocSignatureSpan">(executable)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">binwrap = function (executable) {
+  var input = process.argv.slice(2);
+
+  process.env.ELM_HOME = platform.shareDir;
+
+  spawn(platform.executablePaths[executable], input, {stdio: &#x27;inherit&#x27;})
+    .on(&#x27;exit&#x27;, process.exit);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.elm.binwrap" id="apidoc.module.elm.binwrap">module elm.binwrap</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.elm.binwrap.binwrap" id="apidoc.element.elm.binwrap.binwrap">
+        function <span class="apidocSignatureSpan">elm.</span>binwrap
+        <span class="apidocSignatureSpan">(executable)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">binwrap = function (executable) {
+  var input = process.argv.slice(2);
+
+  process.env.ELM_HOME = platform.shareDir;
+
+  spawn(platform.executablePaths[executable], input, {stdio: &#x27;inherit&#x27;})
+    .on(&#x27;exit&#x27;, process.exit);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
