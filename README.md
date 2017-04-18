@@ -1,9 +1,13 @@
-# api documentation for  [elm (v0.18.0)](https://github.com/elm-lang/elm-platform/tree/master/installers/npm)  [![npm package](https://img.shields.io/npm/v/npmdoc-elm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-elm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-elm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-elm)
+# npmdoc-elm
+
+api documentation for  [elm (v0.18.0)](https://github.com/elm-lang/elm-platform/tree/master/installers/npm)  [![npm package](https://img.shields.io/npm/v/npmdoc-elm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-elm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-elm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-elm)
 #### The Elm Platform: Binaries for the Elm programming language.
 
-[![NPM](https://nodei.co/npm/elm.png?downloads=true)](https://www.npmjs.com/package/elm)
+[![NPM](https://nodei.co/npm/elm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/elm)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-elm_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-elm/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-elm/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-elm/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-elm/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-elm/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +22,6 @@
 {
     "author": {
         "name": "Richard Feldman",
-        "email": "richard.t.feldman@gmail.com",
         "url": "https://github.com/rtfeldman"
     },
     "bin": {
@@ -70,18 +73,15 @@
     "license": "BSD-3-Clause",
     "maintainers": [
         {
-            "name": "evancz",
-            "email": "info@elm-lang.org"
+            "name": "evancz"
         },
         {
-            "name": "rtfeldman",
-            "email": "richard.t.feldman@gmail.com"
+            "name": "rtfeldman"
         }
     ],
     "name": "elm",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/elm-lang/elm-platform.git"
@@ -92,16 +92,6 @@
     "version": "0.18.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module elm](#apidoc.module.elm)
-
-
-
-# <a name="apidoc.module.elm"></a>[module elm](#apidoc.module.elm)
 
 
 
