@@ -1,6 +1,7 @@
 # npmdoc-elm
 
-api documentation for  [elm (v0.18.0)](https://github.com/elm-lang/elm-platform/tree/master/installers/npm)  [![npm package](https://img.shields.io/npm/v/npmdoc-elm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-elm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-elm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-elm)
+#### basic api documentation for  [elm (v0.18.0)](https://github.com/elm-lang/elm-platform/tree/master/installers/npm)  [![npm package](https://img.shields.io/npm/v/npmdoc-elm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-elm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-elm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-elm)
+
 #### The Elm Platform: Binaries for the Elm programming language.
 
 [![NPM](https://nodei.co/npm/elm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/elm)
